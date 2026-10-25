@@ -1,0 +1,23 @@
+# Private, git-ignored per this portfolio's convention -- learning files, not published
+WORKFLOW.md
+PROJECT_NARRATIVE.md
+INTERVIEW_QA.md
+INTERPRETATION.md
+
+# Blank/hint teaching scaffold -- the clean, filled-in notebook is what gets pushed
+epitope_ai_ml_blank.ipynb
+
+# Raw working/debug notebook from live debugging -- superseded by the clean pushable notebook
+epitope_ai_ml_ran_tried_hands_in_effort.ipynb
+
+# Large real downloaded data -- reproducible by re-fetching
+iedb_binding_data/
+
+# Private study material (added after the real build)
+epitope_ai_ml_pipeline.png
+Epitope_Prediction_Design_AI_ML_Learning_Compendium.pdf
+
+# Standard
+__pycache__/
+*.pyc
+.ipynb_checkpoints/

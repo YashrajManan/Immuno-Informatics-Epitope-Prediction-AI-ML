@@ -1,0 +1,6 @@
+pearson_r=0.5504757938834567
+pearson_p=0.0
+spearman_r=0.5499870530474776
+spearman_p=0.0
+n_train=73204
+n_val=12919
