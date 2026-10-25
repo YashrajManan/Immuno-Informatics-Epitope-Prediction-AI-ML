@@ -1,7 +1,8 @@
 # Epitope Prediction/Design via AI-ML — Fine-Tuned ESM2 Protein Language Model (Real IEDB Data)
 
-Training our own real model to predict MHC-I binding directly from peptide sequence — distinct from project
-#22, which only called IEDB's own existing published NetMHCpan tool via its API — by fine-tuning a
+Training our own real model to predict MHC-I binding directly from peptide sequence — distinct from the
+Immunoinformatics: Epitope & Vaccine-Candidate Prediction project, which only called IEDB's own existing
+published NetMHCpan tool via its API — by fine-tuning a
 pretrained ESM2 protein language model, then using the trained model generatively to propose novel candidate
 peptides.
 
